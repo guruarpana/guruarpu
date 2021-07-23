@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'frontdoor-westeurope'
         slot-name: 'staging'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_6d716a7926664afcaaa056251c536c7d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a3cdc42f54fd42cbbc54e80a8ff77b50 }}
         package: .
